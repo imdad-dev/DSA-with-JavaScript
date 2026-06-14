@@ -20,4 +20,4 @@ console.log(typeof age); // Number
 let score="100";
 console.log(score+1); // 1001
 score=Number(score);
-console.log(score+1); // 101 
+console.log(score+1); // 101
